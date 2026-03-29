@@ -1,0 +1,26 @@
+{
+  "name": "oh-my-pmf",
+  "version": "1.0.0",
+  "description": "> 자율 PMF 탐색 시스템 — SEPE 엔진 > Claude Code 플러그인으로 12시간 자율 운영",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralphthon-autohunt/seokan-autohunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralphthon-autohunt/seokan-autohunt/issues"
+  },
+  "homepage": "https://github.com/ralphthon-autohunt/seokan-autohunt#readme",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}

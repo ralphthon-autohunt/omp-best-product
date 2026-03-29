@@ -1,0 +1,19 @@
+# Runtime state
+state/*.json
+state/products/*.json
+state/personas/*.json
+state/ideas/*.json
+
+# Build outputs
+projects/*/
+
+# Node
+node_modules/
+.next/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store

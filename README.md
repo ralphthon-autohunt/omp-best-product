@@ -1,3 +1,5 @@
+[발표 자료 (Google Slides)](https://docs.google.com/presentation/d/1JB1zZEh-dPJQhxRCh3fCap7tle0-mp-W-SJBbJKCxWE/edit?usp=sharing)
+
 # oh-my-pmf (omp)
 
 > 자율 PMF 탐색 시스템 — SEPE 엔진

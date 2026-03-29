@@ -1,0 +1,92 @@
+{
+  "product_id": "idea-20260329-121250",
+  "product_name": "SpendSnap v4",
+  "researched_at": "2026-03-29T18:00:00Z",
+  "competitors": [
+    {
+      "name": "YNAB (You Need A Budget)",
+      "url": "https://www.youneedabudget.com",
+      "price": "$109/년 또는 $14.99/월",
+      "strength": "강력한 zero-based 예산 방법론, 교육 리소스 풍부, 커뮤니티 활성",
+      "weakness": "학습 곡선 높음, 신용카드 처리 복잡, 가격 비쌈, rage-quit 사례 다수",
+      "bank_linking": true,
+      "category": "budgeting",
+      "market_share": "high",
+      "user_sentiment": "love-hate: 헌신적 팬 vs 포기자 양극화"
+    },
+    {
+      "name": "Monarch Money",
+      "url": "https://www.monarchmoney.com",
+      "price": "$14.99/월 또는 $99.99/년",
+      "strength": "Mint 대안으로 급성장, UI 깔끔, 투자 추적 포함",
+      "weakness": "연동 불안정 잦음, 가격 부담, 은행 연결 끊김 문제 반복",
+      "bank_linking": true,
+      "category": "personal_finance",
+      "market_share": "growing",
+      "user_sentiment": "positive but syncing complaints 多"
+    },
+    {
+      "name": "Copilot Money",
+      "url": "https://copilot.money",
+      "price": "$95/년",
+      "strength": "iOS 전용 프리미엄 UX, AI 카테고리 분류 우수",
+      "weakness": "iOS 전용(Android 없음), 가격 높음, 모든 기능 필요하지 않은 사용자에게 과함",
+      "bank_linking": true,
+      "category": "personal_finance",
+      "market_share": "niche",
+      "user_sentiment": "positive among power users"
+    },
+    {
+      "name": "뱅크샐러드",
+      "url": "https://banksalad.com",
+      "price": "무료 (프리미엄 기능 일부 유료)",
+      "strength": "한국 특화, 카드/계좌 자동 연동, 신용점수 관리",
+      "weakness": "오픈뱅킹 연동 불안정, 개인정보 우려, 광고성 금융상품 추천",
+      "bank_linking": true,
+      "category": "personal_finance_korea",
+      "market_share": "high_korea",
+      "user_sentiment": "편리하지만 개인정보 불안"
+    },
+    {
+      "name": "카카오페이",
+      "url": "https://kakaopay.com",
+      "price": "무료",
+      "strength": "카카오 생태계 연동, 간편결제+자산관리 통합, 대규모 사용자 기반",
+      "weakness": "지출 분석 기능 얕음, 상세 예산 관리 불가, 카카오 계정 필수",
+      "bank_linking": true,
+      "category": "fintech_korea",
+      "market_share": "dominant_korea",
+      "user_sentiment": "편리하나 깊이 부족"
+    },
+    {
+      "name": "Toshl Finance",
+      "url": "https://toshl.com",
+      "price": "무료 기본 / $35.99/년 Pro",
+      "strength": "크로스플랫폼, 귀여운 UI, 수동 입력 중심으로 사생활 보호",
+      "weakness": "UI가 다소 구식, 한국어 지원 미흡, 사용자 기반 축소 중",
+      "bank_linking": false,
+      "category": "expense_tracking",
+      "market_share": "declining",
+      "user_sentiment": "니치 팬층만 남음"
+    },
+    {
+      "name": "Splitwise",
+      "url": "https://splitwise.com",
+      "price": "무료 / $3.99/월 Pro",
+      "strength": "그룹 지출 분할 특화, 단순 UX",
+      "weakness": "개인 예산 관리 기능 없음, 그룹 지출 전용",
+      "bank_linking": false,
+      "category": "expense_splitting",
+      "market_share": "niche",
+      "user_sentiment": "목적에 딱 맞으면 충성"
+    }
+  ],
+  "competitive_gap": {
+    "no_bank_linking_local": "SpendSnap의 핵심 차별점 — 뱅크샐러드/카카오페이/YNAB 모두 연동 필수. 완전 로컬 수동입력+AI분류는 공백 시장.",
+    "price_gap": "YNAB $109/년, Monarch $100/년, Copilot $95/년 — SpendSnap 무료는 가격 장벽 제거",
+    "simplicity_gap": "YNAB 학습 곡선, YNAB rage-quit 빈번 — SpendSnap 30초 기록은 직접적 대안",
+    "privacy_gap": "뱅크샐러드/카카오페이 개인정보 우려 — SpendSnap 로컬저장은 신뢰 차별점"
+  },
+  "threat_level": "medium",
+  "threat_note": "뱅크샐러드/카카오페이는 자동화 편의성으로 우위. 그러나 '은행 연동 없이 빠른 수동기록' 니즈는 별도 세그먼트."
+}

@@ -1,0 +1,164 @@
+{
+  "product_id": "idea-20260329-170000",
+  "product_name": "FridgeSnap",
+  "category": "food",
+  "target_segment": "자취/1-2인 가구, 20-40대, 식재료 낭비 불편함",
+  "competitors": [
+    {
+      "name": "유통기한 언제지 (When's Expiration Date)",
+      "strengths": [
+        "완전 무료 (모든 기능 무료 제공)",
+        "바코드 + 영수증 스캔으로 자동 등록",
+        "유통기한 임박 알림 기능",
+        "한국 시장 특화 (한글 UI, 한국 식품 DB)"
+      ],
+      "weaknesses": [
+        "수동 업데이트 필요 (자동 재고 감지 없음)",
+        "UI/UX가 다소 단순함",
+        "레시피 제안 기능 없음"
+      ],
+      "pricing": "무료 (Free)",
+      "market_position": "한국 시장 1-2인 가구 타겟 주요 플레이어"
+    },
+    {
+      "name": "NoWaste",
+      "strengths": [
+        "AI 영수증 스캔 (95%+ 정확도)",
+        "2억 5500만 제품 DB (Pro Scanner)",
+        "AI 레시피 제안 (재고 기반, 유통기한 우선)",
+        "가족 공유 기능",
+        "무료 버전도 500개 아이템 지원"
+      ],
+      "weaknesses": [
+        "Pro 버전 구독 필요 ($5.99/년)",
+        "무료 버전은 6개 리스트로 제한",
+        "해외 중심 (한국 제품 DB 약함)"
+      ],
+      "pricing": "Free (500 items, 6 lists) / Pro $5.99/년 (5000 items, unlimited lists, 14일 무료 체험)",
+      "market_position": "글로벌 시장 AI 기반 올인원 솔루션"
+    },
+    {
+      "name": "Fridgely",
+      "strengths": [
+        "바코드 스캔으로 자동 유통기한 추정",
+        "냉장고/냉동고/식품 보관 공간별 분류",
+        "유통기한 임박 알림",
+        "쇼핑 리스트 연동"
+      ],
+      "weaknesses": [
+        "수동 업데이트가 번거로움 (사용자 리뷰)",
+        "Premium 기능 필요 시 추가 비용 ($1.99+)",
+        "영수증 스캔 없음"
+      ],
+      "pricing": "무료 (기본) / Premium 기능은 IAP (In-App Purchase, 정확한 가격 미공개)",
+      "market_position": "북미 시장 중소 규모 앱"
+    },
+    {
+      "name": "BEEP",
+      "strengths": [
+        "바코드 스캔 자동 등록",
+        "유통기한 알림 (사용자 지정 가능)",
+        "무료 버전 50개 제품 지원",
+        "Enterprise 플랜 제공 (팀용)"
+      ],
+      "weaknesses": [
+        "무료 버전 50개 제품 제한 (매우 낮음)",
+        "프리미엄 가격 높다는 사용자 불만",
+        "30일 무료 체험 후 유료 전환 압박"
+      ],
+      "pricing": "Free (50 items) / Premium (가격 미공개, 30일 무료 체험) / Enterprise",
+      "market_position": "글로벌 시장 B2C/B2B 혼합"
+    },
+    {
+      "name": "Best Before",
+      "strengths": [
+        "완전 무료 (동기화 포함)",
+        "광범위한 식품 DB",
+        "바코드 스캔 + 사진 자동 인식",
+        "개봉 후 유통기한 추적"
+      ],
+      "weaknesses": [
+        "수동 업데이트 필요",
+        "AI 기능 없음",
+        "레시피 제안 없음"
+      ],
+      "pricing": "무료 (Free)",
+      "market_position": "글로벌 시장 무료 대안 (기본 기능 충실)"
+    },
+    {
+      "name": "원더 프리지 (Wonder Frigi)",
+      "strengths": [
+        "한국 시장 특화",
+        "보관 위치, 수량, 소비기한 통합 관리",
+        "유통기한 알림"
+      ],
+      "weaknesses": [
+        "바코드/영수증 스캔 정보 부족",
+        "UI/기능 상세 정보 부족 (마케팅 약함)"
+      ],
+      "pricing": "정보 없음 (추정 무료 또는 낮은 가격)",
+      "market_position": "한국 시장 소규모 플레이어"
+    },
+    {
+      "name": "Pantry Check",
+      "strengths": [
+        "식료품 계획 + 유통기한 추적 통합",
+        "재고 관리 + 쇼핑 리스트 연동"
+      ],
+      "weaknesses": [
+        "사용자 리뷰/가격 정보 부족",
+        "마케팅 약함"
+      ],
+      "pricing": "정보 없음",
+      "market_position": "소규모 틈새 시장"
+    },
+    {
+      "name": "CozZo (서비스 종료)",
+      "strengths": [
+        "5억+ 제품 바코드 DB",
+        "Best By/Use By 추적",
+        "레시피 관리"
+      ],
+      "weaknesses": [
+        "서비스 종료 예정 (클라우드 인프라 셧다운)"
+      ],
+      "pricing": "N/A (종료)",
+      "market_position": "레거시 (교훈: 클라우드 의존 리스크)"
+    }
+  ],
+  "market_insights": {
+    "market_saturation": "높음 (글로벌/한국 모두 주요 플레이어 존재)",
+    "pricing_landscape": "무료 (광고/제한) ~ $5-10/년 프리미엄",
+    "differentiation_opportunities": [
+      "완전 자동화 (영수증 스캔 + AI 재고 감지 → 수동 입력 제로)",
+      "한국 시장 특화 + AI 레시피 (유통기한 언제지 무료 + NoWaste AI 결합)",
+      "가족 공유 + 협업 기능 (1-2인 가구 → 가족 확장)",
+      "마트 연동 (쿠팡/마켓컬리 자동 동기화)",
+      "프리미엄 모델 차별화 (무료 무제한 vs. Pro AI 기능)"
+    ],
+    "key_threats": [
+      "유통기한 언제지 (한국 시장 강자, 완전 무료)",
+      "NoWaste (AI 기능 + 글로벌 DB, 저렴한 구독)"
+    ],
+    "entry_barriers": "낮음 (기술적) / 높음 (사용자 습관 변경, 네트워크 효과)",
+    "recommendations": [
+      "무료 티어를 넉넉하게 (500+ items) → 유통기한 언제지 대항",
+      "AI 자동화 강화 (NoWaste 수준) → 수동 입력 불편함 해소",
+      "한국 식품 DB + 한글 UI 필수",
+      "초기 PMF 검증: '수동 입력 제로'가 핵심 차별점인지 확인",
+      "가격 전략: Free (무제한) + Pro AI ($3-5/년) 또는 완전 무료 (광고)"
+    ]
+  },
+  "sources": [
+    "https://play.google.com/store/apps/details?id=kr.co.ourneeds.app (유통기한 언제지)",
+    "https://www.nowasteapp.com/ (NoWaste)",
+    "https://fridgelyapp.com/ (Fridgely)",
+    "https://docs-en.beepscan.com/pricing (BEEP)",
+    "https://play.google.com/store/apps/details?id=com.peytu.bestbefore (Best Before)",
+    "https://play.google.com/store/apps/details?id=com.meolly.fridge (원더 프리지)",
+    "https://pantrycheck.com/ (Pantry Check)",
+    "https://cozzo.app/ (CozZo)"
+  ],
+  "research_date": "2026-03-29",
+  "researcher": "oh-my-pmf:competitor-researcher"
+}

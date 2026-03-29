@@ -1,0 +1,47 @@
+{
+  "product_id": "idea-20260329-143000",
+  "competitors": [
+    {
+      "name": "TeuxDeux",
+      "type": "direct",
+      "strength": "극도로 심플한 일간 투두 리스트, $3/월(연간) 저렴한 가격, 롤오버 기능으로 미완료 작업 자동 이동",
+      "weakness": "협업 기능 없음, 프로젝트 관리 불가, 타임블로킹 없음 — 단순 리스트만 제공",
+      "price": "$3/월 (연간 $36) 또는 $4/월 (월간)",
+      "url": "https://teuxdeux.com"
+    },
+    {
+      "name": "TimeBloc",
+      "type": "direct",
+      "strength": "시간 단위 타임블로킹, 루틴 자동화, 캘린더 통합, 시각적 진행도 통계",
+      "weakness": "복잡한 UI (시간/분 단위 세밀 조정 필요), 작업 개수 제한 없어 과다 스케줄링 가능",
+      "price": "무료 (기본) / $19.99/년 (프리미엄)",
+      "url": "https://apps.apple.com/app/timebloc-daily-planner/id1476033780"
+    },
+    {
+      "name": "Session (Pomodoro)",
+      "type": "alternative",
+      "strength": "Apple 생태계 완벽 통합, 웹사이트 차단, Pomodoro 타이머로 집중력 강제, Slack 연동",
+      "weakness": "작업 관리 기능 없음 (타이머만), 안드로이드/윈도우 미지원, 구독료 부담",
+      "price": "무료 (기본) / $4.99/월 또는 $39.99/년 (Pro)",
+      "url": "https://www.stayinsession.com"
+    },
+    {
+      "name": "Todoist",
+      "type": "category",
+      "strength": "300개 프로젝트, 자연어 입력, 필터/라벨 강력, 협업 기능, 플랫폼 독립적",
+      "weakness": "기능 과다로 복잡, 타임블로킹 없음, 2025년 40% 가격 인상으로 사용자 불만",
+      "price": "무료 (5개 프로젝트) / $5/월 (Pro, 연간) 또는 $7/월 (월간)",
+      "url": "https://todoist.com"
+    },
+    {
+      "name": "Sunsama",
+      "type": "category",
+      "strength": "일일 계획 의식(ritual) 강제, 시간 추정 + 타임블로킹, Asana/Jira/Notion 등 통합",
+      "weakness": "매우 비쌈 ($20~25/월), 학습 곡선 높음, 과도한 기능으로 오히려 부담",
+      "price": "$16/월 (연간) 또는 $25/월 (월간)",
+      "url": "https://sunsama.com"
+    }
+  ],
+  "market_summary": "생산성 앱 시장은 양극화 — 심플한 무료/저가 앱(TeuxDeux, 구글킵)은 타임블로킹 없음, 고급 앱(Sunsama $25/월)은 과다 기능으로 복잡. '3레인 타임박스 + 레인당 1작업 강제' 컨셉은 직접 경쟁자 없음 (블루오션). 타겟 페르소나(멀티태스킹 번아웃)는 Todoist/Notion 복잡도에 불만, Session은 타이머만 제공.",
+  "researched_at": "2026-03-29T14:30:00Z"
+}

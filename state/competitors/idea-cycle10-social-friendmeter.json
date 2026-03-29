@@ -1,0 +1,47 @@
+{
+  "product_id": "idea-cycle10-social-friendmeter",
+  "competitors": [
+    {
+      "name": "Garden: Stay in Touch",
+      "type": "direct",
+      "strength": "Extremely simple and focused design, free app, direct integration with address book and Facebook Messenger. Users love the straightforward approach without unnecessary features.",
+      "weakness": "Very limited integrations (no WhatsApp, Instagram, Google Voice), no interaction history timeline, cannot add notes to individual interactions, missing photo management for manual contacts.",
+      "price": "Free",
+      "url": "https://apps.apple.com/us/app/garden-stay-in-touch/id1230466454"
+    },
+    {
+      "name": "Linc - Friendship Tracker",
+      "type": "direct",
+      "strength": "Comprehensive relationship insights with engagement statistics, iCloud sync across devices, Siri/Shortcuts integration, private notes system, tracks birthdays and important dates. Well-suited for introverts managing guilt about maintaining relationships.",
+      "weakness": "Expensive lifetime pricing ($69.99), lacks bulk management features, cannot rename preset categories, no keyword search, UI less polished than competitors, no automatic sync with call/message history due to privacy limitations.",
+      "price": "$2.99/year or $69.99 lifetime (free with limits)",
+      "url": "https://apps.apple.com/us/app/linc-friendship-tracker/id1513780616"
+    },
+    {
+      "name": "Catchup",
+      "type": "direct",
+      "strength": "Newly launched (2023), emphasizes genuine personal check-ins over passive social media engagement. Simple reminder system for staying in touch with selected friends and family.",
+      "weakness": "Limited feature details available, appears to be basic functionality only, newer app with less proven track record.",
+      "price": "미확인",
+      "url": "https://techcrunch.com/2023/08/15/catchup-is-a-simple-app-for-reminding-yourself-to-check-in-with-friends-and-loved-ones/"
+    },
+    {
+      "name": "카카오톡/문자 수동 관리",
+      "type": "alternative",
+      "strength": "무료, 이미 사용 중인 익숙한 플랫폼, 별도 앱 설치 불필요.",
+      "weakness": "수동으로 기억해야 함, 알림 기능 없음, 관계 건강도나 통계 제공 안 함, 바쁘면 잊어버림.",
+      "price": "무료",
+      "url": "N/A"
+    },
+    {
+      "name": "Personal CRM (Dex, Clay, Cloze)",
+      "type": "category",
+      "strength": "Professional networking focus with LinkedIn integration, comprehensive contact management, business-grade features, relationship insights and analytics.",
+      "weakness": "비즈니스 중심이라 개인 친구 관계에는 과도하게 복잡함, 유료 구독 모델 (월 $10-30), 학습 곡선 높음, 친밀한 관계 추적에는 부적합한 UI/UX.",
+      "price": "$10-30/월 구독",
+      "url": "https://www.bigcontacts.com/blog/best-personal-crm/"
+    }
+  ],
+  "market_summary": "친구 관계 알림 시장은 무료/단순 앱(Garden, Catchup)과 고기능 유료 앱(Linc $70)으로 양극화. 중간 가격대에 '관계 건강도 점수' 같은 차별화 기능을 가진 제품은 부재. 수동 기록 방식은 모든 기존 앱의 공통 한계.",
+  "researched_at": "2026-03-29T13:40:00Z"
+}

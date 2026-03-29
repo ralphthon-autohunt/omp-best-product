@@ -1,0 +1,47 @@
+{
+  "product_id": "idea-20260329-120952",
+  "competitors": [
+    {
+      "name": "Reclaim.ai",
+      "type": "direct",
+      "strength": "AI-powered auto-scheduling with smart meeting optimization, acquired by Dropbox (credibility), serves 320k+ users, saves avg 7.6 hrs/week, integrates with Google/Outlook calendars and major task tools (Asana, Linear, Jira)",
+      "weakness": "Focuses on rescheduling and time-blocking automation but lacks meeting pattern visualization and decline template generation features; free plan limited to 1 week scheduling range and 1 habit",
+      "price": "Free (Lite), $10/month (Starter), $15/month (Business) - annual billing",
+      "url": "https://reclaim.ai/"
+    },
+    {
+      "name": "Motion",
+      "type": "direct",
+      "strength": "Full AI 'SuperApp' that auto-schedules tasks on calendar with dynamic re-optimization dozens of times per day, handles projects + meetings + tasks in one platform, positioned as '$100K personal assistant'",
+      "weakness": "Expensive ($29/month minimum, no free tier), focuses on task execution rather than meeting pattern analysis, no meeting decline templates or visualization of meeting danger zones",
+      "price": "$29/month individual ($19/month annual), $49/seat/month team ($29/seat annual)",
+      "url": "https://www.usemotion.com/"
+    },
+    {
+      "name": "Clockwise",
+      "type": "direct",
+      "strength": "Advanced AI calendar optimization analyzing 1M+ permutations daily, automatic meeting rearrangement to create focus blocks, team-wide coordination across organizations",
+      "weakness": "Team acquired by Salesforce (transition uncertainty), focused on schedule compression and focus time rather than meeting decline assistance or pattern visualization for individuals",
+      "price": "Unknown (team joining Salesforce, partnered with Reclaim for transitions)",
+      "url": "https://www.getclockwise.com/"
+    },
+    {
+      "name": "Sunsama",
+      "type": "alternative",
+      "strength": "Mindful daily planning system with intentional rituals, integrates calendar + tasks from multiple sources (Jira, Notion, Trello, Asana), focus mode with Pomodoro, builds planning habits",
+      "weakness": "Manual planning approach (not AI-automated), no meeting pattern analysis or danger zone visualization, no decline templates, relatively expensive for what it offers",
+      "price": "$20/month ($16/month annual), no free plan",
+      "url": "https://www.sunsama.com"
+    },
+    {
+      "name": "Manual meeting audits + decline email templates",
+      "type": "alternative",
+      "strength": "Free, widely used current practice where knowledge workers manually review meetings and use generic templates from blogs/articles (Clockwise, Atlassian, The Muse provide examples)",
+      "weakness": "Time-consuming manual process, no visual pattern recognition, generic templates don't account for individual context or meeting history, requires discipline and calendar literacy, reactive not proactive",
+      "price": "Free",
+      "url": "https://www.atlassian.com/blog/loom/how-to-decline-a-meeting"
+    }
+  ],
+  "market_summary": "Calendar AI tools focus on auto-scheduling and focus time optimization (Reclaim, Motion, Clockwise) but lack meeting overload visualization and polite decline assistance. Workers currently rely on manual audits + generic templates. Gap exists for smart pattern analysis that highlights danger zones and generates contextual decline messages—combines proactive visualization with decline execution support.",
+  "researched_at": "2026-03-29T12:15:00Z"
+}

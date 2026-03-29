@@ -1,0 +1,47 @@
+{
+  "product_id": "idea-20260329-124047",
+  "competitors": [
+    {
+      "name": "Copyfish (Browser Extension)",
+      "type": "direct",
+      "strength": "완전 무료, 오픈소스, Chrome/Edge/Firefox 지원, 25개 이상 언어 지원, 별도 설치 없이 브라우저에서 즉시 사용 가능",
+      "weakness": "데스크톱 OCR 기능은 별도 UI.Vision XModule 설치 필요, 정확도 지표 미공개, 확장 프로그램 기반으로 독립 앱 아님",
+      "price": "무료 (오픈소스)",
+      "url": "https://ocr.space/copyfish"
+    },
+    {
+      "name": "PowerToys Text Extractor",
+      "type": "alternative",
+      "strength": "Microsoft 공식 도구로 신뢰성, Windows 기본 통합, Win+Shift+T 단축키로 즉시 실행, 무료",
+      "weakness": "Windows 전용 (Mac/Linux 불가), OCR 언어팩 별도 설치 필요, 정확도 보장 없어 교정 필수, 스크린샷 저장 없음 (클립보드만)",
+      "price": "무료 (PowerToys 포함)",
+      "url": "https://learn.microsoft.com/en-us/windows/powertoys/text-extractor"
+    },
+    {
+      "name": "Screenshot Scraper",
+      "type": "direct",
+      "strength": "Tesseract.js 기반 로컬 처리로 프라이버시 보장, 깨진 줄바꿈/하이픈 자동 수정, 테이블 → CSV 변환, 자동 클립보드 복사",
+      "weakness": "유료 ($5/월), 현재 비공개 베타 (이메일 신청 필요), 흐릿한 이미지/손글씨는 정확도 낮음, 다중 페이지 PDF 미완성",
+      "price": "$5/월 (Pro), $19/월 (Team, 10인)",
+      "url": "https://www.screenshotscraper.com/"
+    },
+    {
+      "name": "Windows 11 Snipping Tool (Text Actions)",
+      "type": "alternative",
+      "strength": "Windows 11 기본 탑재, 스크린샷 + OCR 통합, Shift+Win+S 단축키, 무료, 별도 설치 불필요",
+      "weakness": "Windows 11 전용 (이전 버전 불가), 기본 OCR 기능만 제공, 테이블/구조화 데이터 미지원, 일회성 클립보드 복사만",
+      "price": "무료 (Windows 11 기본)",
+      "url": "https://support.microsoft.com/windows/use-snipping-tool-to-capture-screenshots-00246869-1843-655f-f220-97299b865f6b"
+    },
+    {
+      "name": "Klippa OCR",
+      "type": "category",
+      "strength": "엔터프라이즈급 정확도 (최대 99%), 100개 이상 문서 타입 지원, AI 기반 사기 탐지, 대량 처리 최적화, 워크플로우 자동화",
+      "weakness": "엔터프라이즈 솔루션으로 개인 사용자에게 과도한 스펙/비용, 간단한 스크린샷 텍스트 추출에는 오버스펙, 가격 미공개 (높을 것으로 추정)",
+      "price": "미공개 (엔터프라이즈 견적 필요)",
+      "url": "https://www.klippa.com/"
+    }
+  ],
+  "market_summary": "스크린샷 OCR 시장은 무료 OS 기본 도구(기능 제한)와 엔터프라이즈 솔루션(과도한 비용) 사이에 갭 존재. 브라우저 기반 + 무료 + 개인정보 보호(로컬 처리) 조합은 개발자/PM 타겟에 적합한 포지셔닝.",
+  "researched_at": "2026-03-29T00:00:00Z"
+}

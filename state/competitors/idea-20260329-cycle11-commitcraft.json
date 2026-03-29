@@ -1,0 +1,105 @@
+{
+  "product_id": "idea-20260329-cycle11-commitcraft",
+  "product_name": "CommitCraft",
+  "category": "career",
+  "researched_at": "2026-03-29T14:32:00Z",
+  "competitors": [
+    {
+      "name": "GitResume",
+      "type": "direct",
+      "strengths": [
+        "Direct git commit parsing and analysis - analyzes commit history to extract projects, tech stack, and impact automatically",
+        "AI-powered insights with multiple LLM support (Llama, Gemini, OpenAI) for personalized contribution generation",
+        "Privacy-focused local processing - data stays private with local commit processing",
+        "Open source (MIT licensed) with multiple export formats (PDF, HTML, Markdown)"
+      ],
+      "weaknesses": [
+        "Pricing model not clearly communicated on website - unclear monetization may deter early adoption",
+        "Requires manual seeding of commits before analysis - not fully automated end-to-end workflow",
+        "Limited market visibility compared to established resume builders"
+      ],
+      "pricing": "Unknown/Freemium (pricing not disclosed on public website)",
+      "url": "https://gitresume.app/"
+    },
+    {
+      "name": "Reactive Resume",
+      "type": "alternative",
+      "strengths": [
+        "Completely free forever with no hidden costs - zero financial barrier to entry",
+        "Open source with 12+ customizable templates and advanced personalization (colors, fonts, CSS)",
+        "Privacy-first approach with no tracking, ads, or data selling - appeals to privacy-conscious developers",
+        "Self-hosting option via Docker and multi-language support via community translations"
+      ],
+      "weaknesses": [
+        "Generic resume builder not specialized for developers or commit-based workflows",
+        "No built-in git integration or automatic commit parsing - requires manual content entry",
+        "No specialized AI features for generating achievement bullets from technical work",
+        "Community-driven maintenance with variable feature development pace"
+      ],
+      "pricing": "Free forever",
+      "url": "https://rxresu.me/"
+    },
+    {
+      "name": "SWE Resume",
+      "type": "category",
+      "strengths": [
+        "Purpose-built for software engineers with FAANG-trained AI models and recruiter feedback integration",
+        "Credit-based (not subscription) pricing model allows users to pay only for AI features used",
+        "Real-time ATS scoring and job-specific resume optimization - swaps job descriptions and re-optimizes in under 1 minute",
+        "Engineering-hierarchy aware with technical terminology suggestions and quantifiable impact prompts"
+      ],
+      "weaknesses": [
+        "No git commit integration - requires manual bullet point and achievement entry",
+        "Credit costs not transparent on marketing pages - unclear true pricing model",
+        "Focused on ATS optimization rather than automated content generation from development history",
+        "Requires users to articulate their own achievements - no assist from code repository analysis"
+      ],
+      "pricing": "Free to start with pay-as-you-go credits (exact pricing not disclosed)",
+      "url": "https://www.sweresume.app/"
+    },
+    {
+      "name": "Teal Resume Builder",
+      "type": "category",
+      "strengths": [
+        "AI-powered bullet point generator with achievement-focused content (metrics, KPIs, quantifiable results)",
+        "Job description matching and alignment - generates bullets that match job requirements and language",
+        "Unlimited resume creation and job tracking on free tier - generous free plan",
+        "Multiple AI writing tools (summaries, cover letters, resume rewriter) in single platform"
+      ],
+      "weaknesses": [
+        "Expensive subscription required for AI features ($13/week, $29/month) - significant ongoing cost",
+        "No integration with git or code repositories - manual content entry required",
+        "Not developer-specific - generic career tool without technical stack awareness",
+        "Free plan has limited AI credits, requiring paid upgrade for serious users"
+      ],
+      "pricing": "$13/week, $29/month, or $79/quarter for AI features (Teal+)",
+      "url": "https://www.tealhq.com/"
+    },
+    {
+      "name": "Kickresume",
+      "type": "category",
+      "strengths": [
+        "All-in-one career platform with 40+ professional templates and customization options",
+        "AI Resume Writer using GPT-4.1 and GPT-5 with access to 20,000+ pre-written phrases and 1,500+ resume samples",
+        "Freemium model with substantial free tier (4 templates, unlimited PDF/Word exports, resume checker)",
+        "Integrated cover letter builder and career resources in single platform"
+      ],
+      "weaknesses": [
+        "Premium version required for most templates and advanced customization ($84/year to $228/year)",
+        "No git or code repository integration - generic resume builder",
+        "Free templates are limited to black and white with minimal design elements",
+        "Free users cannot add custom sections (certifications, awards, projects) - forces premium upgrade"
+      ],
+      "pricing": "Free plan or $19/month ($84/year) premium subscription",
+      "url": "https://www.kickresume.com/"
+    }
+  ],
+  "market_summary": "The developer resume market is dominated by generic resume builders (Kickresume, Teal, Reactive Resume) and specialized ATS optimizers (SWE Resume), with only GitResume attempting direct git commit parsing. All competitors lack CommitCraft's core insight: developers already have achievement data in commit messages and code diffs. Blue ocean opportunity: automated bullet generation from git + technical stack detection combined with minimal UI friction (no resume building required).",
+  "key_insights": {
+    "direct_competition": "GitResume is the only true direct competitor but has unclear pricing and no market visibility. CommitCraft can differentiate via transparent pricing, better UX, and more sophisticated technical stack detection.",
+    "alternative_competition": "Developers currently use generic tools (Reactive Resume, Kickresume) or manually write bullets with AI assistants (Teal, SWE Resume). None offer git-native workflows.",
+    "market_gap": "No tool currently combines (1) automatic commit parsing, (2) achievement bullet generation, and (3) technical stack detection in one focused product.",
+    "target_segment_needs": "Busy developers 25-40 preparing for job moves need 2-minute resume generation from existing git history - not a full resume builder but a resume accelerator.",
+    "pricing_opportunity": "GitResume has unclear pricing; competitors range $0-$29/month. CommitCraft can occupy $5-15/month premium tier for git-native users."
+  }
+}

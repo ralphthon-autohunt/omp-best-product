@@ -1,0 +1,47 @@
+{
+  "product_id": "idea-20260329-cycle13-tabtrack",
+  "competitors": [
+    {
+      "name": "OneTab (Chrome Extension)",
+      "type": "direct",
+      "strength": "탭을 한 번에 접고 링크 목록으로 저장. 폭발한 탭을 즉시 정리. 무료. 사용자 400만+.",
+      "weakness": "클러스터링/인사이트 없음. 저장만 할 뿐 '내가 뭘 조사했는지' 분석 기능 전무. UI 구식.",
+      "price": "무료",
+      "url": "https://www.one-tab.com"
+    },
+    {
+      "name": "TabsOutliner (Chrome Extension)",
+      "type": "direct",
+      "strength": "탭 세션 트리 구조 관리. 노트 첨부 가능. 파워유저용.",
+      "weakness": "유료 ($15 one-time), UI 복잡, 토픽 분석 없음. 관리에 시간 투자 필요.",
+      "price": "$15 일회성",
+      "url": "https://chrome.google.com/webstore/detail/tabs-outliner"
+    },
+    {
+      "name": "ChatGPT / Claude (AI 붙여넣기)",
+      "type": "alternative",
+      "strength": "URL 100개 붙여넣으면 즉시 요약·분류. 무료. 이미 익숙함.",
+      "weakness": "저장 안 됨. 매번 반복 작업. 시각화 없음. 탭 히스토리 누적 분석 불가.",
+      "price": "무료 (GPT-4o 기본)",
+      "url": "https://chatgpt.com"
+    },
+    {
+      "name": "Chrome 탭 그룹 기능 (내장)",
+      "type": "alternative",
+      "strength": "브라우저 내장, 별도 설치 불필요. 수동 그룹 생성 가능.",
+      "weakness": "수동 분류만 가능. 자동 클러스터링 없음. '내가 뭘 가장 많이 조사했나' 인사이트 전무.",
+      "price": "무료 (내장)",
+      "url": "https://support.google.com/chrome/answer/9777571"
+    },
+    {
+      "name": "Toby (탭 관리 앱)",
+      "type": "category",
+      "strength": "탭을 컬렉션으로 저장·공유. 팀 협업 가능. 깔끔한 UI.",
+      "weakness": "분석/인사이트 없음. 수동 정리 필요. 유료 팀 플랜 $12/월.",
+      "price": "개인 무료 / 팀 $12/월",
+      "url": "https://www.gettoby.com"
+    }
+  ],
+  "market_summary": "탭 관리 시장은 '정리 도구'(OneTab, TabsOutliner, Toby)와 '브라우저 내장 기능' 사이에 분포. 모두 수동 분류 기반이며 자동 토픽 클러스터링 + 인사이트 대시보드는 공백. ChatGPT 붙여넣기가 현재 가장 강력한 대안이나 저장·시각화·누적 분석이 없음.",
+  "researched_at": "2026-03-29T17:35:00.000Z"
+}

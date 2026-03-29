@@ -1,0 +1,187 @@
+{
+  "updatedAt": "2026-03-29T07:12:43.317Z",
+  "missions": [
+    {
+      "id": "session:ef4602fb-5772-4ca0-905f-000f3abdd166:none",
+      "source": "session",
+      "name": "none",
+      "objective": "Session mission",
+      "createdAt": "2026-03-29T03:07:56.320Z",
+      "updatedAt": "2026-03-29T07:12:43.317Z",
+      "status": "running",
+      "workerCount": 12,
+      "taskCounts": {
+        "total": 12,
+        "pending": 0,
+        "blocked": 0,
+        "inProgress": 5,
+        "completed": 7,
+        "failed": 0
+      },
+      "agents": [
+        {
+          "name": "oh-my-pmf:conductor:a9cc70d",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "a9cc70d71bbc09106",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T05:03:55.228Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:ab5e7d5",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "ab5e7d58179fc2708",
+          "status": "running",
+          "currentStep": null,
+          "latestUpdate": null,
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T05:08:01.617Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:ac4d218",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "ac4d218c7739e88b8",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T05:39:56.150Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:a87c657",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "a87c6575c8bf58524",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T06:02:47.250Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:a4c13b8",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "a4c13b80330f1a2d3",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T06:03:38.020Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:a65688a",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "a65688a5f4834dcc7",
+          "status": "running",
+          "currentStep": null,
+          "latestUpdate": null,
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T06:03:58.590Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:a0f06fd",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "a0f06fd9561f1b2e7",
+          "status": "running",
+          "currentStep": null,
+          "latestUpdate": null,
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T06:27:55.568Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:aa5c229",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "aa5c229d5effab5c7",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T07:05:26.993Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:aebf7cd",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "aebf7cd84d356cb3d",
+          "status": "running",
+          "currentStep": null,
+          "latestUpdate": null,
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T06:50:33.525Z"
+        },
+        {
+          "name": "oh-my-pmf:conductor:a76a8e1",
+          "role": "oh-my-pmf:conductor",
+          "ownership": "a76a8e1b963c98407",
+          "status": "running",
+          "currentStep": null,
+          "latestUpdate": null,
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T06:50:36.972Z"
+        },
+        {
+          "name": "oh-my-pmf:validator:a0006fd",
+          "role": "oh-my-pmf:validator",
+          "ownership": "a0006fd09ed30b94d",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T07:12:43.317Z"
+        },
+        {
+          "name": "oh-my-pmf:validator:aa8dffa",
+          "role": "oh-my-pmf:validator",
+          "ownership": "aa8dffa5b0e54212e",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-03-29T07:12:30.752Z"
+        }
+      ],
+      "timeline": [
+        {
+          "id": "session-stop:aa5c229d5effab5c7:2026-03-29T07:05:26.993Z",
+          "at": "2026-03-29T07:05:26.993Z",
+          "kind": "completion",
+          "agent": "oh-my-pmf:conductor:aa5c229",
+          "detail": "completed",
+          "sourceKey": "session-stop:aa5c229d5effab5c7"
+        },
+        {
+          "id": "session-start:a0006fd09ed30b94d:2026-03-29T07:11:26.544Z",
+          "at": "2026-03-29T07:11:26.544Z",
+          "kind": "update",
+          "agent": "oh-my-pmf:validator:a0006fd",
+          "detail": "started oh-my-pmf:validator:a0006fd",
+          "sourceKey": "session-start:a0006fd09ed30b94d"
+        },
+        {
+          "id": "session-start:aa8dffa5b0e54212e:2026-03-29T07:11:33.845Z",
+          "at": "2026-03-29T07:11:33.845Z",
+          "kind": "update",
+          "agent": "oh-my-pmf:validator:aa8dffa",
+          "detail": "started oh-my-pmf:validator:aa8dffa",
+          "sourceKey": "session-start:aa8dffa5b0e54212e"
+        },
+        {
+          "id": "session-stop:aa8dffa5b0e54212e:2026-03-29T07:12:30.752Z",
+          "at": "2026-03-29T07:12:30.752Z",
+          "kind": "completion",
+          "agent": "oh-my-pmf:validator:aa8dffa",
+          "detail": "completed",
+          "sourceKey": "session-stop:aa8dffa5b0e54212e"
+        },
+        {
+          "id": "session-stop:a0006fd09ed30b94d:2026-03-29T07:12:43.317Z",
+          "at": "2026-03-29T07:12:43.317Z",
+          "kind": "completion",
+          "agent": "oh-my-pmf:validator:a0006fd",
+          "detail": "completed",
+          "sourceKey": "session-stop:a0006fd09ed30b94d"
+        }
+      ]
+    }
+  ]
+}

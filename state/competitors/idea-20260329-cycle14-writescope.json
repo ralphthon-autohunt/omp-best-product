@@ -1,0 +1,47 @@
+{
+  "product_id": "idea-20260329-cycle14-writescope",
+  "competitors": [
+    {
+      "name": "Grammarly",
+      "type": "direct",
+      "strength": "문법 교정 + 스타일 제안이 실시간으로 제공되어 글쓰기 중 즉각적인 피드백 가능. 브라우저 확장으로 어디서든 동작.",
+      "weakness": "교정(correction)에 집중하며 '패턴 인사이트' 분석은 없음. 프리미엄 기능은 월 $12 이상.",
+      "price": "무료(기본) / $12~30/월(Premium)",
+      "url": "https://grammarly.com"
+    },
+    {
+      "name": "Hemingway Editor",
+      "type": "direct",
+      "strength": "문장 복잡도·수동태·부사 남용 등 가독성 지표를 색상으로 시각화. 심플한 UI.",
+      "weakness": "영어 전용. 어휘 다양성이나 단어 빈도 히스토리 비교 없음. 분석 저장 안 됨.",
+      "price": "웹 무료 / 데스크탑 앱 $19.99(일회성)",
+      "url": "https://hemingwayapp.com"
+    },
+    {
+      "name": "ProWritingAid",
+      "type": "direct",
+      "strength": "20개 이상의 문체 보고서 제공. 반복 단어, 문장 다양성, 속도 분석 등 심층 분석.",
+      "weakness": "인터페이스가 복잡하여 학습 곡선 존재. 전체 기능은 유료($79/년). 한국어 지원 없음.",
+      "price": "무료(한정) / $79/년",
+      "url": "https://prowritingaid.com"
+    },
+    {
+      "name": "ChatGPT (대안 대체)",
+      "type": "alternative",
+      "strength": "글 붙여넣기 후 '단어 반복 분석해줘' 프롬프트로 즉시 분석 가능. 무료 사용 가능.",
+      "weakness": "시각화 없음. 분석 결과 저장·비교 불가. 매번 프롬프트 작성 필요. 히스토리 추적 불가.",
+      "price": "무료(GPT-3.5) / $20/월(GPT-4)",
+      "url": "https://chat.openai.com"
+    },
+    {
+      "name": "워드카운터 (wordcounter.net)",
+      "type": "alternative",
+      "strength": "단어 수·문자 수·문장 수 즉시 카운트. 무료, 회원가입 불필요.",
+      "weakness": "단순 카운트만 제공. 어휘 다양성·문장 분포·시각화 전혀 없음.",
+      "price": "무료",
+      "url": "https://wordcounter.net"
+    }
+  ],
+  "market_summary": "글쓰기 분석 시장은 교정(Grammarly)과 가독성(Hemingway) 중심. '내 글쓰기 패턴을 데이터로 보여주는' 분석 도구는 부재. ChatGPT로 대체 시도는 있으나 시각화·히스토리 비교 불가 — 이 갭이 WriteScope의 기회.",
+  "researched_at": "2026-03-29T07:00:00.000Z"
+}

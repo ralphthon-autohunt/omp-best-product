@@ -1,0 +1,147 @@
+{
+  "product_id": "idea-20260329-161500",
+  "product_name": "MoodMirror",
+  "researched_at": "2026-03-29T16:15:00Z",
+  "competitors": [
+    {
+      "name": "Daylio",
+      "strengths": [
+        "Market leader with 20+ million users, 8+ years proven track record",
+        "Ultra-fast entry: create daily entry in two taps with emoji-based mood selection",
+        "Advanced analytics: identifies behavioral patterns affecting mood with correlation analysis",
+        "Year in Pixels: full-year calendar view showing daily moods",
+        "Comprehensive features: goal tracking, voice memos, photo attachments, reminders",
+        "Strong privacy: PIN/fingerprint/Face ID lock, local data storage, cloud backup optional",
+        "High customization: editable moods, activities, emojis, icons, color themes"
+      ],
+      "weaknesses": [
+        "Feature bloat may overwhelm users seeking extreme simplicity",
+        "Premium features behind paywall (price not transparent on homepage)",
+        "May be 'too much' for users who just want basic mood/energy/sleep tracking"
+      ],
+      "pricing": "Free with premium features (specific price not disclosed on homepage)"
+    },
+    {
+      "name": "Bearable",
+      "strengths": [
+        "Most comprehensive tracker: mood, energy, sleep, symptoms, medication, pain, diet, habits, etc.",
+        "Advanced health insights: correlation reports identify what affects your wellbeing",
+        "Ideal for complex health needs (chronic illness, multiple conditions)",
+        "Generous free tier with most core features accessible",
+        "Affordable premium: $18.99/year (discounted from $34.99) or $6.99/month",
+        "30-day historical data in free version, unlimited in premium",
+        "Sponsorship program (Bearable Heroes) for those who can't afford subscription"
+      ],
+      "weaknesses": [
+        "Overwhelming for users wanting simple mood check-ins (too many tracking options)",
+        "Steeper learning curve due to extensive customization",
+        "Overkill for healthy users without chronic conditions",
+        "More medical/clinical feel vs casual wellness app"
+      ],
+      "pricing": "$18.99/year (discounted) or $6.99/month; 7-day free trial; generous free tier"
+    },
+    {
+      "name": "MoodWise",
+      "strengths": [
+        "Ultra-minimalist design: clutter-free, vibrant color-based interface",
+        "Core 3-metric tracking: mood, energy, sleep (exactly matches MoodMirror)",
+        "Perfect privacy: 100% local storage, no data collection, no servers",
+        "Fast logging with color scale selection",
+        "Additional tracking: anxiety levels, custom trackers, daily tags",
+        "Affordable: $9.99 one-time purchase for premium",
+        "Excellent ratings: 5.0 stars (though only 2 reviews so far)",
+        "PDF export and iCloud backup"
+      ],
+      "weaknesses": [
+        "Very new/small user base (only 2 ratings)",
+        "Limited social proof or media recognition",
+        "Single developer (Ellen Lien G Probst) may raise sustainability concerns",
+        "Less feature-rich than established competitors",
+        "No Android version mentioned"
+      ],
+      "pricing": "Free with $9.99 premium access (one-time purchase)"
+    },
+    {
+      "name": "Pixels",
+      "strengths": [
+        "Year in Pixels visualization: every day becomes a colored pixel",
+        "Subpixels feature: capture mood variations throughout the day",
+        "Indie project with no ads and no aggressive upselling",
+        "Strong privacy focus: local storage default",
+        "Comprehensive: mood, habits, medication, gratitude, diet, relationships, travel",
+        "Customizable color palette and tags",
+        "Optional Pixels Cloud for device syncing (Pixels+ tier)"
+      ],
+      "weaknesses": [
+        "Feature creep: expanded beyond simple mood tracking into everything",
+        "Less focused on the core mood/energy/sleep trinity",
+        "Pricing unclear (free with Pixels+ premium, but cost not specified)",
+        "May be too artistic/visual-focused vs functional analytics"
+      ],
+      "pricing": "Free with optional Pixels+ premium tier (price not specified)"
+    },
+    {
+      "name": "Moodily",
+      "strengths": [
+        "Perfect 3-metric match: mood, energy, sleep tracking",
+        "Unique energy tracking alongside mood (critical for bipolar disorder)",
+        "Identifies mixed states and cycling patterns (clinical utility)",
+        "100% local storage on iPhone, never uploaded or shared",
+        "Easy-to-use charts showing mood/energy/sleep interrelation",
+        "Minimalist, focused interface",
+        "Possibly free (sources suggest 100% free app)"
+      ],
+      "weaknesses": [
+        "iOS only (iPhone), no Android version",
+        "Primarily designed for bipolar/chronic depression (may be too clinical for general audience)",
+        "Limited feature set compared to competitors",
+        "Unclear pricing (sources conflict: 'free' vs unspecified)",
+        "Smaller user base and less brand recognition"
+      ],
+      "pricing": "Possibly free (sources conflict; needs App Store verification)"
+    },
+    {
+      "name": "eMoods",
+      "strengths": [
+        "Free mood tracking focused on bipolar and mood disorders",
+        "Tracks daily highs/lows, sleep, medications, symptoms",
+        "Clinical credibility for mental health management",
+        "Simple, medical-grade tracking",
+        "Established brand in bipolar/mood disorder space"
+      ],
+      "weaknesses": [
+        "Too clinical/medical for general wellness audience",
+        "Less visual/aesthetic appeal than competitors",
+        "Primarily bipolar-focused may alienate broader market",
+        "Interface may feel dated compared to modern minimalist apps"
+      ],
+      "pricing": "Free"
+    }
+  ],
+  "market_insights": {
+    "market_saturation": "High - mood tracking is a crowded category with multiple established players (Daylio 20M+ users, Bearable strong mid-market presence)",
+    "price_range": "Free to $34.99/year; most competitors offer generous free tiers with $9.99-$18.99/year premium upgrades",
+    "key_differentiators": [
+      "Speed of entry: Daylio's '2 taps' is the benchmark to beat",
+      "Privacy-first: Local storage is table stakes (Moodily, MoodWise, Pixels all emphasize this)",
+      "Simplicity vs features: Clear divide between minimalist (MoodWise, Moodily) vs comprehensive (Bearable, Daylio)",
+      "Visual appeal: Year in Pixels concept is popular (Daylio, Pixels)",
+      "3-metric focus: MoodWise and Moodily already nail mood+energy+sleep combo"
+    ],
+    "target_audience_overlap": "Very high - all competitors target 20-35 burnout-prone professionals/students seeking simple emotional tracking",
+    "threats": [
+      "MoodWise is nearly identical to MoodMirror concept (mood/energy/sleep, minimalist, privacy-first)",
+      "Daylio's massive user base and 8-year head start creates high switching costs",
+      "Bearable dominates the 'comprehensive health tracking' niche",
+      "Category perceived as 'solved' - users may not see need for new entrant"
+    ],
+    "opportunities": [
+      "MoodWise only has 2 reviews - window for competitive positioning before it scales",
+      "No dominant player in 'dead simple 3-tap check-in' - most apps add features over time",
+      "7-day pattern visualization is unique (competitors focus on monthly/yearly views)",
+      "Local-only storage + 7-day focus could be compelling anti-cloud, anti-feature-creep positioning",
+      "Burnout-specific messaging is underexplored (most apps generic 'mental health')"
+    ]
+  },
+  "competitive_positioning_recommendation": "MoodMirror faces extreme competition in a saturated market. MoodWise is nearly identical in concept, while Daylio dominates market share. To survive, MoodMirror must be radically simpler (3 taps = 1 per metric) and emphasize the unique 7-day pattern focus (weekly cycles matter for work/burnout). Consider pivoting to 'burnout early warning system' angle vs generic mood tracking, or find a niche underserved by incumbents (e.g., ADHD-friendly, shift workers, new parents)."
+}

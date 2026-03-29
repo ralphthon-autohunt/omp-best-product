@@ -1,0 +1,112 @@
+{
+  "product_id": "idea-20260329-121003",
+  "product_name": "LinkGuard",
+  "researched_at": "2026-03-29T12:10:00Z",
+  "competitors": [
+    {
+      "name": "AMZ Watcher",
+      "url": "https://amzwatcher.com/",
+      "strengths": [
+        "Amazon-specific broken link detection",
+        "Automatic site-wide and YouTube channel scanning",
+        "Instant email alerts for broken products",
+        "Claims 20% earnings recovery"
+      ],
+      "weaknesses": [
+        "Limited to Amazon affiliate links only",
+        "No multi-platform support",
+        "Narrow focus on e-commerce"
+      ],
+      "pricing": "Unknown - likely subscription-based"
+    },
+    {
+      "name": "Pageradar",
+      "url": "https://pageradar.io/features/affiliate-link-checker",
+      "strengths": [
+        "Real-time monitoring across 167 countries",
+        "Email notifications for broken/blocked links",
+        "Conversion tracking",
+        "Multi-network support"
+      ],
+      "weaknesses": [
+        "Generic monitoring (not creator-specific)",
+        "No commission drop detection mentioned",
+        "May lack influencer-specific features"
+      ],
+      "pricing": "Unknown - professional monitoring tool"
+    },
+    {
+      "name": "Lasso",
+      "url": "https://getlasso.co/solutions/affiliate-link-manager/",
+      "strengths": [
+        "Comprehensive link management dashboard",
+        "WordPress integration",
+        "Link optimization and tracking",
+        "Built for content creators"
+      ],
+      "weaknesses": [
+        "Focus on link management, not health monitoring",
+        "No proactive alerting for broken links",
+        "WordPress-centric (limits platform reach)"
+      ],
+      "pricing": "Subscription-based for WordPress users"
+    },
+    {
+      "name": "Affilimate",
+      "url": "https://affilimate.com/product/",
+      "strengths": [
+        "Aggregates 100+ affiliate networks in one dashboard",
+        "Commission consolidation and tracking",
+        "Multi-platform data integration",
+        "Built for publishers"
+      ],
+      "weaknesses": [
+        "Focus on revenue aggregation, not link health",
+        "No broken link detection",
+        "No alerting for commission drops"
+      ],
+      "pricing": "Subscription-based ($49-199/month typical range)"
+    },
+    {
+      "name": "Linkgaze",
+      "url": "https://linkgaze.io/blog/best-affiliate-link-trackers",
+      "strengths": [
+        "Multi-platform tracking (YouTube, Instagram, TikTok, blogs)",
+        "Automatic UTM tagging",
+        "Platform-specific analytics",
+        "Creator-focused design"
+      ],
+      "weaknesses": [
+        "Primarily click tracking, not health monitoring",
+        "No broken link alerts mentioned",
+        "No commission drop detection"
+      ],
+      "pricing": "Creator-tier pricing (estimated $10-50/month)"
+    }
+  ],
+  "market_gaps": [
+    "No competitor combines link health monitoring with commission drop alerts",
+    "Most tools focus on either link tracking OR link checking, not both",
+    "No creator-specific dashboard that shows revenue impact of broken links",
+    "Limited proactive alerting (most tools are reactive)",
+    "Micro-influencer segment underserved (tools target enterprises or Amazon-only)"
+  ],
+  "competitive_advantages": [
+    "Unified dashboard for link health + commission tracking",
+    "Proactive alerts for both broken links AND commission drops",
+    "Creator-first design for 5K-50K follower segment",
+    "Revenue loss prevention focus (not just link management)",
+    "Cross-platform support (not Amazon-only)"
+  ],
+  "sources": [
+    "https://amzwatcher.com/",
+    "https://pageradar.io/features/affiliate-link-checker",
+    "https://getlasso.co/solutions/affiliate-link-manager/",
+    "https://affilimate.com/product/",
+    "https://linkgaze.io/blog/best-affiliate-link-trackers",
+    "https://prettylinks.com/blog/link-auditing-tools/",
+    "https://strackr.com/",
+    "https://www.rewardful.com/",
+    "https://tapfiliate.com/"
+  ]
+}

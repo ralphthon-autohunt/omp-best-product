@@ -1,0 +1,103 @@
+{
+  "product_id": "idea-20260329-121250",
+  "product_name": "SpendSnap v2",
+  "researched_at": "2026-03-29T12:48:00Z",
+  "competitors": [
+    {
+      "name": "Pocket Clear",
+      "type": "direct",
+      "strength": "완전 무료(광고 없음), 5초 지출 입력, 오프라인 지원, 은행 연동 불필요, 가입 없이 사용 가능",
+      "weakness": "AI 카테고리 자동분류 없음, 기본적인 시각화만 제공, 고급 기능 부족",
+      "price": "무료 (구독 없음)",
+      "url": "https://pocketclear.app/"
+    },
+    {
+      "name": "SpendifiAI",
+      "type": "direct",
+      "strength": "Claude AI 기반 문맥 인식 카테고리 자동분류(95%+ 정확도), 신뢰도 기반 라우팅, 즉시 높은 정확도(학습 기간 불필요)",
+      "weakness": "무료 버전 기능 제한 가능성, 신생 서비스로 시장 검증 부족, AI 처리에 따른 프라이버시 우려",
+      "price": "무료 (프리미엄 미확인)",
+      "url": "https://www.spendifiai.com/"
+    },
+    {
+      "name": "Koody",
+      "type": "direct",
+      "strength": "프라이버시 중심(은행 연동 없음), 수동 입력 + CSV 업로드 혼합 가능, 다중 통화 지원, 커플/룸메이트 공유 예산",
+      "weakness": "매일 수동 입력 필요(사용자 훈련 필요), 실시간 동기화 없음, AI 자동분류 없음",
+      "price": "미확인 (프리미엄 모델 추정)",
+      "url": "https://koody.com/"
+    },
+    {
+      "name": "MonAi",
+      "type": "direct",
+      "strength": "AI 기반 자연어 처리(음성+텍스트), Apple Pay와 Apple Shortcuts 통합, 일반 언어 입력으로 자동 파싱, iOS/Android 지원",
+      "weakness": "단순 수동 입력 원하는 사용자에겐 복잡, 자연어 패턴 학습 필요, AI 처리로 프라이버시 우려",
+      "price": "미확인 (프리미엄 모델 추정)",
+      "url": "https://get-monai.app/"
+    },
+    {
+      "name": "Spendee",
+      "type": "category",
+      "strength": "최고 수준 시각화(차트/분석), 시각적으로 매력적인 UI, 무료 버전에서 수동 입력 지원, 은행 연동 없이 사용 가능",
+      "weakness": "프리미엄 기능 유료 잠금, 단순 사용 케이스엔 과도하게 복잡, 무료 버전 제약 많음",
+      "price": "프리미엄 (무료 버전 제공)",
+      "url": "https://www.spendee.com/"
+    },
+    {
+      "name": "Money Manager (Realbyte)",
+      "type": "alternative",
+      "strength": "빠른 데이터 입력, 금액과 퍼센트 표시된 파이 차트, 시각적 명확성, 은행 연동 불필요",
+      "weakness": "수동 카테고리 분류(AI 없음), 기본 기능만 제공, 구식 인터페이스",
+      "price": "무료 (인앱 구매 있음)",
+      "url": "https://apps.apple.com/us/app/money-manager-expense-budget/id560481810"
+    },
+    {
+      "name": "Google Sheets",
+      "type": "alternative",
+      "strength": "완전 무료, 모든 기기에서 접근 가능, 프라이버시 우려 없이 자동화 추가 가능, 완전한 커스터마이징",
+      "weakness": "초기 설정 복잡, UI/UX 없음, 모바일에서 입력 불편, 시각화 수동 설정 필요",
+      "price": "무료",
+      "url": "https://sheets.google.com"
+    }
+  ],
+  "market_summary": "2026년 지출 추적 시장은 AI 카테고리 자동분류가 표준화되고 있으나, 프라이버시를 중시하는 사용자는 여전히 은행 연동 없는 수동 입력 앱을 선호. '진짜 무료' 앱(Pocket Clear)과 고급 AI 앱(SpendifiAI, MonAi) 사이 격차 존재. 키워드 기반 빠른 분류 + 명확한 시각화 조합은 차별화 기회.",
+  "market_insights": {
+    "key_trends_2026": [
+      "AI 카테고리 자동분류가 2026년 표준으로 자리잡음(95%+ 정확도)",
+      "프라이버시 중심 사용자는 은행 연동 거부 (수동 입력 선호)",
+      "5초 지출 입력 속도가 경쟁 우위로 작용",
+      "도넛/파이 차트 시각화는 이제 기본 요구사항",
+      "프리미엄 모델 우세하나 '진짜 무료' 앱이 충성 사용자 확보",
+      "수동 입력 = 지출 의식 향상 효과 (불필요한 구매 10-15% 감소)"
+    ],
+    "differentiation_opportunities": [
+      "SpendSnap의 키워드 기반 AI는 자연어 처리보다 빠를 수 있음(MonAi/ExpenseAI 대비)",
+      "가입 없음 + 오프라인 지원은 강력한 프라이버시 포지셔닝",
+      "도넛 차트는 흔함 — UX 차별화 필요 (Spendee 대비)",
+      "수동 입력 시장 포화 — AI 분류는 필요하지만 충분하지 않음",
+      "분류 속도 + 정확도가 핵심 차별점 (SpendifiAI와 직접 경쟁)",
+      "한국 시장: 로컬 카테고리(배달비, 편의점, 교통비) 최적화 기회"
+    ],
+    "threats": [
+      "Pocket Clear가 이미 '가장 단순한 무료 추적기' 포지션 선점",
+      "SpendifiAI가 Claude AI로 95%+ 정확도 + 문맥 인식 제공",
+      "MonAi가 음성 + Apple 생태계 통합으로 우위",
+      "Spendee가 시각화 품질에서 압도적",
+      "시장 포화 상태 — '또 하나의 지출 추적기'로 인식될 위험",
+      "무료 사용자는 광고 없는 Pocket Clear에 만족, 고급 사용자는 AI 앱 선호"
+    ],
+    "positioning_challenge": "SpendSnap은 'Pocket Clear보다 스마트하지만(AI 분류), SpendifiAI보다 단순한(키워드)' 중간 지대 — 명확한 후크 없으면 양쪽에서 밀림"
+  },
+  "sources": [
+    "https://pocketclear.app/blog/track-spending-app.html",
+    "https://www.spendifiai.com/blog/best-ai-expense-trackers",
+    "https://koody.com/blog/budgeting-app-without-bank-linking",
+    "https://get-monai.app/",
+    "https://www.spendee.com/",
+    "https://use.expensify.com/blog/personal-expense-tracker-apps",
+    "https://getfinny.app/blog/track-expenses-without-linking-bank",
+    "https://www.expensesorted.com/blog/117_track_expenses_without_linking_bank_accounts_privacy_first_google_sheets_method",
+    "https://sparkreceipt.com/blog/ai-categorize-expenses/",
+    "https://asanify.com/blog/ai/expense-management-systems-with-ai-guide/"
+  ]
+}
